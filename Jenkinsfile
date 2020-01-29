@@ -8,7 +8,7 @@
     }
     
     stage('Approve deploy to CERTIFICA') {
-        input '¿Preparados para desplegar en CERTIFICA?'
+        input ' ¿Preparados para desplegar en CERTIFICA?'
     } 
  
 }
